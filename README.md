@@ -20,5 +20,8 @@
 | docs | 문서 수정 |
 | merge | merge |
 
-ex: `feat: 1111번 제출`
+```
+ex: feat: BOJ_1111번 제출
 
+    feat: PGS_{문제제목}_{기타}
+```
